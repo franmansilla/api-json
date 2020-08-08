@@ -1,35 +1,35 @@
 {
     "data": {
-        "address": "Cordoba, Argentina.",
+        "address": "Córdoba, Argentina.",
         "avatar": "https://scontent.fcor5-1.fna.fbcdn.net/v/t1.0-9/29178439_1853165741360146_479653447877001216_n.jpg?_nc_cat=104&_nc_sid=09cbfe&_nc_ohc=vRuA0DPuikAAX_sAYFA&_nc_ht=scontent.fcor5-1.fna&oh=22ad0e1c291d9d33a4ceff541c9125b9&oe=5F411B6E",
-        "bio": "Estudiante avanzado de Analista de sistemas y desarrollo de software. Me encantaria formar parte de una empresa en la cual poder aplicar mis conocimientos y continuar creciendo como profesional . Me considero una persona responsable, analitica y predispuesta a afrontar nuevos desafios.",
+        "bio": "Estudiante avanzado de Analista de sistemas y desarrollo de software. Me encantaría formar parte de una empresa en la cual poder aplicar mis conocimientos y continuar creciendo como profesional. Me considero una persona responsable, analítica y predispuesta a afrontar nuevos desafíos.",
         "certificate": [
             {
                 "date": "2016",
-                "description": "Formacion integral basica de testers ",
-                "institution": "Bstricker",
-                "name": "Formacion Inicial de testing de software"
+                "description": "Formación integral básica de testers.",
+                "institution": "Bstricker.",
+                "name": "Formación Inicial de testing de software."
             }
         ],
         "education": [
             {
-                "degree": "Analista de Sistemas y Desarrollo de Software",
-                "description": "Formacion en analisis y desarrollos de sistemas",
+                "degree": "Analista de Sistemas y Desarrollo de Software.",
+                "description": "Formación en análisis y desarrollos de sistemas.",
                 "endDate": "En curso",
-                "institution": "Colegio universitario IES Siglo 21",
+                "institution": "Colegio universitario IES Siglo 21.",
                 "startDate": "2018"
             },
             {
-                "degree": "Bachillerato en economía y administración",
-                "description": "Formacion basica en contabilidad, economia y administracion",
+                "degree": "Bachillerato en economía y administración.",
+                "description": "Formación básica en contabilidad, economía y administración.",
                 "endDate": "2016",
-                "institution": "Instituto la Inmaculada",
+                "institution": "Instituto la Inmaculada.",
                 "startDate": "2010"
             }
         ],
         "experience": [
             {
-                "company": "Oficina Abierta Coworking",
+                "company": "Oficina Abierta Coworking.",
                 "endDate": "02/2019",
                 "jobDescription": "Recepción, mantenimiento y limpieza, manejo de redes y ventas.",
                 "jobTitle": "Recepcionista",
