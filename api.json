@@ -40,22 +40,6 @@
         "profession": "Estudiante",
         "skills": [
             {
-                "name": "HTML5",
-                "percentage": "50%"
-            },
-            {
-                "name": "CSS",
-                "percentage": "25%"
-            },
-            {
-                "name": "JavaScript",
-                "percentage": "55%"
-            },
-            {
-                "name": "React",
-                "percentage": "20%"
-            },
-            {
                 "name": ".NET",
                 "percentage": "80%"
             },
@@ -64,12 +48,24 @@
                 "percentage": "60%"
             },
             {
+                "name": "JavaScript",
+                "percentage": "55%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "50%"
+            },
+            {
                 "name": "PHP",
                 "percentage": "40%"
             },
             {
-                "name": "Python",
-                "percentage": "30%"
+                "name": "CSS",
+                "percentage": "25%"
+            },
+            {
+                "name": "React",
+                "percentage": "20%"
             }
         ],
         "social": [
