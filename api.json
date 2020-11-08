@@ -29,11 +29,11 @@
         ],
         "experience": [
             {
-                "company": "Oficina Abierta Coworking.",
-                "endDate": "02/2019",
-                "jobDescription": "Recepción, mantenimiento y limpieza, manejo de redes y ventas.",
-                "jobTitle": "Recepcionista",
-                "startDate": "05/2018"
+                "company": "NTB S.A",
+                "endDate": "Actualidad",
+                "jobDescription": "Recepcion de tickets y soluciones",
+                "jobTitle": "Soporte Tecnico de sistema Sisa",
+                "startDate": "09/2020"
             }
         ],
         "name": "Francisco Mansilla",
@@ -61,7 +61,7 @@
             },
             {
                 "name": "CSS",
-                "percentage": "25%"
+                "percentage": "70%"
             },
             {
                 "name": "React",
