@@ -32,7 +32,7 @@
                 "company": "NTB S.A",
                 "endDate": "Actualidad",
                 "jobDescription": "Recepcion de tickets y soluciones",
-                "jobTitle": "Soporte Tecnico de sistema Sisa",
+                "jobTitle": "Soporte Tecnico de sistema SiSalud",
                 "startDate": "09/2020"
             }
         ],
@@ -48,6 +48,10 @@
                 "percentage": "60%"
             },
             {
+                "name": "CSS",
+                "percentage": "70%"
+            },
+            {
                 "name": "JavaScript",
                 "percentage": "55%"
             },
@@ -58,10 +62,6 @@
             {
                 "name": "PHP",
                 "percentage": "40%"
-            },
-            {
-                "name": "CSS",
-                "percentage": "70%"
             },
             {
                 "name": "React",
