@@ -2,7 +2,7 @@
     "data": {
         "address": "Córdoba, Argentina.",
         "avatar": "https://franmansilla.github.io/api-json/foto.jpg",
-        "bio": "Tengo 22 años, soy estudiante avanzado en Analista de sistemas y desarrollo de software. Me considero una persona responsable, analítica y predispuesta a afrontar nuevos desafíos. Me encantaría formar parte de su empresa para así poder aplicar mis conocimientos y continuar desarrollandome ",
+        "bio": "Tengo 23 años, Recibido en la carrera Analista de Sistemas de Computación. Durante el ultimo año he trabajo en el área de sistemas como desarrollador web y Mobile. Me considero una persona responsable, autodidacta y predispuesta a afrontar nuevos desafíos. ",
         "certificate": [
             {
                 "date": "2016",
@@ -15,7 +15,7 @@
             {
                 "degree": "Analista de Sistemas y Desarrollo de Software.",
                 "description": "Formación en análisis y desarrollos de sistemas.",
-                "endDate": "En curso",
+                "endDate": "2021",
                 "institution": "Colegio universitario IES Siglo 21.",
                 "startDate": "2018"
             },
@@ -29,39 +29,39 @@
         ],
         "experience": [
             {
+                "company": "InfoExperto S.A",
+                "endDate": "Presente",
+                "jobDescription": "Desarrollador PHP,JS y React Native",
+                "jobTitle": "Desarrollador web y Mobile",
+                "startDate": "2021"
+            },
+            {
                 "company": "NTB S.A",
-                "endDate": "Actualidad",
+                "endDate": "2021",
                 "jobDescription": "Recepcion de tickets y soluciones",
                 "jobTitle": "Soporte Tecnico de sistema SiSalud",
-                "startDate": "09/2020"
+                "startDate": "2020"
             }
         ],
         "name": "Francisco Mansilla",
-        "profession": "Estudiante",
+        "profession": "Desarrollador",
         "skills": [
             {
-                "name": ".NET",
+                "name": "PHP",
                 "percentage": "80%"
             },
             {
-                "name": "SQL",
-                "percentage": "60%"
-            },
-            {
-                "name": "CSS",
-                "percentage": "70%"
-            },
-            {
                 "name": "JavaScript",
-                "percentage": "55%"
+                "percentage": "80%"
             },
+            
             {
-                "name": "HTML",
+                "name": "SQL",
+                "percentage": "80%"
+            },
+              {
+                "name": "React Native",
                 "percentage": "50%"
-            },
-            {
-                "name": "PHP",
-                "percentage": "40%"
             },
             {
                 "name": "React",
