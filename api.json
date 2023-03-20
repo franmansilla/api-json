@@ -2,15 +2,8 @@
     "data": {
         "address": "Córdoba, Argentina.",
         "avatar": "https://franmansilla.github.io/api-json/foto.jpg",
-        "bio": "Tengo 23 años, Recibido en la carrera Analista de Sistemas de Computación. Durante el ultimo año he trabajo en el área de sistemas como desarrollador web y Mobile. Me considero una persona responsable, autodidacta y predispuesta a afrontar nuevos desafíos. ",
-        "certificate": [
-            {
-                "date": "2016",
-                "description": "Formación integral básica de testers.",
-                "institution": "Bstricker.",
-                "name": "Formación Inicial de testing de software."
-            }
-        ],
+        "bio": "Tengo 24 años, Recibido en la carrera Analista de Sistemas de Computación. Cuento con experiencia en el área de sistemas como desarrollador FullStack y Mobile. Me considero una persona responsable, autodidacta y abierto a nuevos desafíos y posibilidades.",
+      
         "education": [
             {
                 "degree": "Analista de Sistemas y Desarrollo de Software.",
@@ -18,21 +11,14 @@
                 "endDate": "2021",
                 "institution": "Colegio universitario IES Siglo 21.",
                 "startDate": "2018"
-            },
-            {
-                "degree": "Bachillerato en economía y administración.",
-                "description": "Formación básica en contabilidad, economía y administración.",
-                "endDate": "2016",
-                "institution": "Instituto la Inmaculada.",
-                "startDate": "2010"
             }
         ],
         "experience": [
             {
                 "company": "InfoExperto S.A",
                 "endDate": "Presente",
-                "jobDescription": "Desarrollador PHP,JS y React Native",
-                "jobTitle": "Desarrollador web y Mobile",
+                "jobDescription": "Desarrollador web PHP y JS.  Desarrollador Mobile con React Native",
+                "jobTitle": "Desarrollador FullStack",
                 "startDate": "2021"
             },
             {
