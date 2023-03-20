@@ -3,7 +3,9 @@
         "address": "Córdoba, Argentina.",
         "avatar": "https://franmansilla.github.io/api-json/foto.jpg",
         "bio": "Tengo 24 años, Recibido en la carrera Analista de Sistemas de Computación. Cuento con experiencia en el área de sistemas como desarrollador FullStack y Mobile. Me considero una persona responsable, autodidacta y abierto a nuevos desafíos y posibilidades.",
-      
+         "certificate": [
+           
+        ],
         "education": [
             {
                 "degree": "Analista de Sistemas y Desarrollo de Software.",
