@@ -51,21 +51,29 @@
                 "percentage": "80%"
             },
             {
+                "name": "Laravel",
+                "percentage": "70%"
+            },
+            {
                 "name": "JavaScript",
                 "percentage": "80%"
             },
             
             {
-                "name": "SQL",
+                "name": "PostgreSQL",
                 "percentage": "80%"
             },
               {
                 "name": "React Native",
-                "percentage": "50%"
+                "percentage": "70%"
             },
             {
                 "name": "React",
-                "percentage": "20%"
+                "percentage": "80%"
+            },
+            {
+                "name": "Git",
+                "percentage": "70%"
             }
         ],
         "social": [
